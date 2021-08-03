@@ -1,12 +1,12 @@
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net,HHK
-DOMAIN-SUFFIX,bilibili.com,HHK
-DOMAIN,upos-hz-mirrorakam.akamaized.net,HHK
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,HHK
-DOMAIN-SUFFIX,biliintl.com,HHK
-DOMAIN,apm-misaka.biliapi.net,HHK
-DOMAIN,p.bstarstatic.com,HHK
-DOMAIN,p-bstarstatic.akamaized.net,HHK
-DOMAIN,upos-bstar-mirrorakam.akamaized.net,HHK
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net,HHK
+DOMAIN-SUFFIX,biliapi.net,TTW
+DOMAIN-SUFFIX,bilibili.com,TTW
+DOMAIN,upos-hz-mirrorakam.akamaized.net,CNmedia
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,CNmedia
+DOMAIN-SUFFIX,biliintl.com,CNmedia
+DOMAIN,apm-misaka.biliapi.net,CNmedia
+DOMAIN,p.bstarstatic.com,CNmedia
+DOMAIN,p-bstarstatic.akamaized.net,CNmedia
+DOMAIN,upos-bstar-mirrorakam.akamaized.net,CNmedia
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net,CNmedia
 #
