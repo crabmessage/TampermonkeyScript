@@ -1,7 +1,7 @@
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net,Direct
-DOMAIN-SUFFIX,bilibili.com,Direct
-DOMAIN,upos-hz-mirrorakam.akamaized.net,TTW
+DOMAIN-SUFFIX,biliapi.net,HHK
+DOMAIN-SUFFIX,bilibili.com,HHK
+DOMAIN,upos-hz-mirrorakam.akamaized.net,HHK
 DOMAIN-KEYWORD,cn-hk-eq-bcache-,HHK
 DOMAIN-SUFFIX,biliintl.com,HHK
 DOMAIN,apm-misaka.biliapi.net,HHK
