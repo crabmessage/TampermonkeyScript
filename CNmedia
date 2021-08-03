@@ -1,6 +1,6 @@
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net,TTW
-DOMAIN-SUFFIX,bilibili.com,TTW
+DOMAIN-SUFFIX,biliapi.net,CNmedia
+DOMAIN-SUFFIX,bilibili.com,CNmedia
 DOMAIN,upos-hz-mirrorakam.akamaized.net,CNmedia
 DOMAIN-KEYWORD,cn-hk-eq-bcache-,CNmedia
 DOMAIN-SUFFIX,biliintl.com,CNmedia
