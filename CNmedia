@@ -10,4 +10,4 @@ host,m.bilibili.com,bb
 host,upos-hz-mirrorakam.akamaized.net,bb
 host,www.bilibili.com,bb
 host-keyword,cn-hk-eq-bcache-,bb
-ip-cidr,121.11.192.0/24,Bilibili
+ip-cidr,121.11.192.0/24,bb
